@@ -1,0 +1,82 @@
+[
+  {
+    "title": "Embroidered lace midi-dress",
+    "desc": "This lace dress is characterized by a study of womenswear that blends luxury and boldness. Prada reimagines classic garments from a modernist perspective, blending innovative tailoring and contemporary design. The logo in a contrasting color stands out on the front, adding an innovative and iconic note.",
+    "img": "./src/assets/products/prada-women/prada-women1.png",
+    "categories": ["women"],
+    "size": ["M"],
+    "color": ["Blue", "Yellow", "Olive Green", "Maroon", "Orange"],
+    "price": 562,
+    "inStock": false
+  },
+  {
+    "title": "Crepe satin mini-dress with belt",
+    "desc": "amet justo morbi ut odio cras mi pede malesuada in imperdiet et",
+    "img": "./src/assets/products/prada-women/prada-women2.png",
+    "categories": ["women", "tshirt"],
+    "size": ["XS", "XL", "S", "M", "L"],
+    "color": ["Yellow", "Orange", "Blue"],
+    "price": 533,
+    "inStock": true
+  },
+  {
+    "title": "Silk crew-neck sweater with logo",
+    "desc": "ultrices phasellus id sapien in sapien iaculis congue vivamus metus arcu adipiscing molestie hendrerit at vulputate vitae",
+    "img": "./src/assets/products/prada-women/prada-women3.png",
+    "categories": ["tshirt", "women"],
+    "size": ["XS", "L"],
+    "color": ["Yellow"],
+    "price": 65,
+    "inStock": false
+  },
+  {
+    "title": "Short-sleeved Oxford cotton shirt",
+    "desc": "consectetuer adipiscing elit proin interdum mauris non ligula pellentesque ultrices",
+    "img": "./src/assets/products/prada-women/prada-women4.png",
+    "categories": ["tshirt"],
+    "size": ["XL", "M"],
+    "color": ["Olive Green", "Blue", "Yellow", "Orange", "Black"],
+    "price": 940,
+    "inStock": true
+  },
+  {
+    "title": "Re-Nylon cropped blouson jacket",
+    "desc": "nulla ultrices aliquet maecenas leo odio condimentum id luctus nec molestie sed",
+    "img": "./src/assets/products/prada-women/prada-women5.png",
+    "categories": ["tshirt"],
+    "size": ["XL", "XS", "M", "S"],
+    "color": ["Yellow", "Maroon", "Olive Green"],
+    "price": 309,
+    "inStock": false
+  },
+  {
+    "title": "Single-breasted tricotine jacket",
+    "desc": "eu felis fusce posuere felis sed lacus morbi sem mauris laoreet ut",
+    "img": "./src/assets/products/prada-women/prada-women6.png",
+    "categories": ["women", "tshirt"],
+    "size": ["L", "M", "S", "XS", "XL"],
+    "color": ["Olive Green", "Yellow", "Black", "Orange"],
+    "price": 304,
+    "inStock": false
+  },
+  {
+    "title": "Single-breasted gabardine jacket",
+    "desc": "fusce congue diam id ornare imperdiet sapien urna pretium nisl ut volutpat sapien arcu sed augue aliquam",
+    "img": "./src/assets/products/prada-women/prada-women7.png",
+    "categories": ["women", "tshirt"],
+    "size": ["XL", "XS", "M"],
+    "color": ["Yellow"],
+    "price": 621,
+    "inStock": true
+  },
+  {
+    "title": "Prada Soft padded nappa leather wedge sandals",
+    "desc": "morbi vel lectus in quam fringilla rhoncus mauris enim leo rhoncus sed vestibulum sit amet cursus",
+    "img": "./src/assets/products/prada-women/prada-women8.png",
+    "categories": ["women"],
+    "size": ["L", "XL", "M"],
+    "color": ["Black", "Maroon", "Orange", "Yellow", "Olive Green"],
+    "price": 465,
+    "inStock": true
+  }
+]

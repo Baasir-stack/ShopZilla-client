@@ -1,0 +1,63 @@
+[
+    {
+      "title": "Prada jacket 1",
+      "desc": "erat nulla tempus vivamus in felis eu sapien cursus vestibulum proin eu mi nulla ac enim in tempor turpis",
+      "img": "../src/assets/products/man/prada-man6.png",
+      "categories": ["man","jacket"],
+      "size": ["XS", "L", "XL", "S"],
+      "color": ["Olive Green", "Orange", "Yellow", "Maroon"],
+      "price": 146,
+      "inStock": true
+    },
+    {
+      "title": "Prada jacket 2",
+      "desc": "libero ut massa volutpat convallis morbi odio odio elementum eu interdum eu tincidunt",
+      "img": "../src/assets/products/man/prada-man7.png",
+      "categories": ["man","jacket"],
+      "size": ["M", "XL", "L"],
+      "color": ["Olive Green", "Orange", "Black"],
+      "price": 234,
+      "inStock": false
+    },
+    {
+      "title": "Prada coat",
+      "desc": "nunc rhoncus dui vel sem sed sagittis nam congue risus semper porta volutpat quam pede lobortis ligula sit amet",
+      "img": "../src/assets/products/man/prada-man8.png",
+      "categories": ["man", "coat"],
+      "size": ["L", "S"],
+      "color": ["Orange", "Maroon", "Yellow", "Black", "Blue"],
+      "price": 448,
+      "inStock": false
+    },
+    {
+      "title": "Prada shoes 1",
+      "desc": "mauris ullamcorper purus sit amet nulla quisque arcu libero rutrum ac lobortis vel dapibus",
+      "img": "../src/assets/products/man/prada-man9.png",
+      "categories": ["man", "shoes"],
+      "size": ["XL", "S", "L", "XS", "M"],
+      "color": ["Orange", "Black", "Olive Green", "Blue", "Maroon"],
+      "price": 393,
+      "inStock": false
+    },
+    {
+      "title": "Prada shoes 2",
+      "desc": "duis faucibus accumsan odio curabitur convallis duis consequat dui nec nisi volutpat eleifend donec ut",
+      "img": "../src/assets/products/man/prada-man10.png",
+      "categories": ["man","shoes"],
+      "size": ["M", "XL", "L"],
+      "color": ["Olive Green", "Maroon"],
+      "price": 115,
+      "inStock": false
+    },
+    {
+      "title": "Prada shoes 3",
+      "desc": "primis in faucibus orci luctus et ultrices posuere cubilia curae",
+      "img": "../src/assets/products/man/prada-man11.png",
+      "categories": ["man","shoes"],
+      "size": ["M", "XL", "S", "L", "XS"],
+      "color": ["Maroon", "Orange", "Olive Green"],
+      "price": 577,
+      "inStock": true
+    }
+  ]
+  

@@ -1,0 +1,63 @@
+/* eslint-disable react/prop-types */
+import styled from "styled-components";
+import { mobile } from "../responsive";
+import {Link} from 'react-router-dom'
+
+const Container = styled.div`
+  flex: 1;
+  height: 70vh;
+  position: relative;
+  margin: 3px;
+`;
+
+const Info = styled.div`
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+`;
+
+const Img = styled.img`
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+  ${mobile({ height: "30vh" })}
+`;
+
+const Title = styled.h1`
+  opacity: 0.8;
+  color: white;
+  margin-bottom: 20px;
+`;
+
+const Button = styled.button`
+  border: 1px solid lightgray;
+  padding: 12px;
+  font-weight: 600;
+  background-color: transparent;
+  color: #8d7272;
+  cursor: pointer;
+`;
+
+const CategoryItem = ({ item }) => {
+  return (
+    <Container>
+      <Link to={`products/${item.cat}`}>
+
+      <Img src={item.img} />
+      <Info>
+        <Title>{item.title}</Title>
+        <Button>SHOP NOW</Button>
+      </Info>
+      </Link>
+
+    </Container>
+  );
+};
+
+export default CategoryItem;
